@@ -8,7 +8,7 @@
 
 <script>
 export default {
-  name: 'customInput',
+  name: 'User',
   data() {
     return {
       val: ''
